@@ -16,7 +16,6 @@ Proyecto de clasificación multi–clase usando PyTorch y una ResNet18 preentren
 
    Estructura esperada:
 
-   ```
 <img width="332" height="371" alt="image" src="https://github.com/user-attachments/assets/5dd3d2a6-3c39-4d8d-b8bb-65e7b67e481b" />
 
 3. Abre `reto.ipynb` y ejecuta las celdas en orden. No necesitas modificar parámetros para correrlo.
