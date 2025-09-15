@@ -51,7 +51,7 @@ Proyecto de clasificación multi–clase usando PyTorch y una ResNet18 preentren
 * División de datos (fold1): 70% train, 15% val, 15% test interno (estratificado)
 * Conjunto de prueba final: `fold2` completo
 
-## Métricas de evaluación (conjunto de prueba: fold2)
+## Métricas de evaluación 
 
 * Accuracy global: 0.8269
 
